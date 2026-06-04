@@ -1,0 +1,7 @@
+2026-06-04 13:00:33 | INFO     | __main__:setup_logging:39 - Logging system initialized
+2026-06-04 13:00:33 | INFO     | __main__:main:45 - Starting Stock Analyzer System...
+2026-06-04 13:00:34 | INFO     | __main__:main:70 - Core dependencies loaded successfully
+2026-06-04 13:00:34 | WARNING  | __main__:main:80 - akshare not available, will use yfinance only
+2026-06-04 13:00:35 | INFO     | __main__:main:84 - yfinance loaded successfully
+2026-06-04 13:00:35 | WARNING  | __main__:main:93 - Streamlit not available, web interface disabled
+2026-06-04 13:00:35 | INFO     | __main__:main:95 - System initialization completed
