@@ -866,7 +866,7 @@ MIT License
 
 | 微信 / WeChat | 支付宝 / Alipay |
 | :---: | :---: |
-| <img src="你的微信收款码图片链接" width="200" alt="微信赞助"> | <img src="你的支付宝收款码图片链接" width="200" alt="支付宝赞助"> |
+| <img src="vv.png" width="200" alt="微信赞助"> | <img src="zfb.jpg" width="200" alt="支付宝赞助"> |
 ---
 
 **🎉 祝您投资顺利！**
