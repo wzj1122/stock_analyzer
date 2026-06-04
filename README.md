@@ -9,7 +9,6 @@
 - 📊 自动刷新股价数据（可配置间隔）
 - 📈 多维度技术指标计算（MA、MACD、RSI、布林带等）
 
-<<<<<<< ai股票实时分析系统-a60d6
 > ⚠️ **风险提示**:本系统所有分析结果仅供参考，不构成任何投资建议。股市有风险，投资需谨慎。
 
 ---
@@ -677,13 +676,13 @@ mypy src/
 
 - 项目主页：https://github.com/yourusername/stock_analyzer
 - 问题反馈：https://github.com/yourusername/stock_analyzer/issues
-- 邮箱：your.email@example.com
+- 邮箱：18293592881@163.com
 
 ---
 
 **⚠️ 再次提醒：股市有风险，投资需谨慎！本系统仅供参考，请独立判断。**
 
-*最后更新：2024 年*
+*最后更新：2026 年*
 =======
 # 3. 安装依赖
 pip install -r requirements.txt
@@ -842,7 +841,7 @@ python -m pytest tests/test_data_fetcher.py -v
 
 ## 📝 更新日志
 
-### v1.0.0 (2024)
+### v0.0.1 (2026)
 - ✨ 初始版本发布
 - 📈 支持 A 股、港股、美股
 - 🤖 AI 情感分析
@@ -866,4 +865,3 @@ MIT License
 **🎉 祝您投资顺利！**
 
 *记住：理性投资，风险控制第一。*
->>>>>>> main
